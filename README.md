@@ -1,5 +1,5 @@
 # Test Recipes
-A simple recipes website built as my very first project for learning basic HTML and Git/Github workflow.
+A simple recipes website built as my very first project for learning HTML and Git/Github workflow.
 ## Demo
 https://hsntardev.github.io/test-recipes/
 ## Features & What I Learned
